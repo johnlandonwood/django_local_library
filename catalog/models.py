@@ -22,6 +22,7 @@ class Language(models.Model):
             return self.name
 
 # Test comment
+# Test comment 2
 
 class Book(models.Model):
      """Model representing a book (but not a specific copy of a book)."""
